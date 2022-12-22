@@ -1,0 +1,8 @@
+Ocean City MD', 495.00
+Kings Dominion, 125.00
+Disney World, 825.50
+U.S. National Parks, 650.95
+New York City, 550.00
+The Castles of Wales, 1150.00
+Paris and the Ile de France, 1495.00
+Beijing, 1995.00
